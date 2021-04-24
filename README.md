@@ -12,7 +12,7 @@ I am a front-end developer with over a year of experience. I try to create vario
  
  👯 I am open to start a new interesting project!
  
- 💬 If you have any question mail to piotrswis44@gmail.com
+ 💬 If you have any questions mail to piotrswis44@gmail.com
 
 
 
