@@ -57,6 +57,6 @@ I am a front-end developer with over a year of experience. I try to create vario
 
 :star: [Agnitor44](https://github.com/Agnitor44)
 
-[website]: https://piotrswisstrona.netlify.app/
+[website]: https://piotrswis.netlify.app/
 [linkedin]: https://www.linkedin.com/in/piotr-%C5%9Bwi%C5%9B/
 
