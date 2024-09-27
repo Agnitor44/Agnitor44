@@ -2,7 +2,7 @@
 
 ---
 
-I am a front-end developer with over a year of experience. I try to create various apps using interesting technologies. Currently, I'm looking for a job as a junior.
+I am a front-end developer with over 3 year of experience. I try to create various apps using interesting technologies.
  
  🔭 I’m currently working with React.js
  
